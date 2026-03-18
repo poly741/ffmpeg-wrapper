@@ -1,2 +1,2 @@
-pyinstaller --onefile --noconsole --icon=icon.ico ffmpeg_wrapper.py
+pyinstaller --onefile --noconsole --icon=assets/icon.ico src/ffmpeg_wrapper.py
 pause
